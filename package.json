@@ -1,15 +1,4 @@
 {
   "name": "aaraa-technologies",
-  "version": "1.0.0",
-  "description": "AARAA Technologies Website - Vercel Deployment",
-  "scripts": {
-    "build": "echo 'No build step required for static HTML/CSS'",
-    "start": "serve ."
-  },
-  "dependencies": {
-    "serve": "^14.2.1"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  }
+  "private": true
 }
